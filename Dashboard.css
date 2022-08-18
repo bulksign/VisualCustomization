@@ -1,0 +1,23 @@
+#filterSection .active a {
+    background-color:red !important;
+    color:white!important;
+    font-weight:bold;
+}						
+
+.settingsBarLeft .active a {
+    background-color:red !important;
+    color:white!important;
+    font-weight:bold;
+}						
+                        
+#buttonChooseOption {
+    background-color:white !important;
+}
+                                                                                            
+.mainColorMixin {
+    color:red !important;
+}
+
+#signatureContainer {
+    background-color:red !important;
+}			

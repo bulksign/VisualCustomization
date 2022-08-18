@@ -1,0 +1,28 @@
+.pager {
+    background-color: #F00 !important
+}
+
+.pageImage {
+    border: 1px solid #F00 !important
+}
+
+.navbar,
+.navbar-fixed-top {
+    background-color: #F00 !important
+}
+
+#buttonFinish,
+#buttonToggleFinish {
+    background-color: white !important;
+    color: red !important
+}
+
+#buttonNext {
+    background-color: white !important;
+    color: red !important
+}
+
+.mainButton {
+    background-color: red !important;
+    color: white !important;
+}
