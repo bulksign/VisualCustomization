@@ -15,15 +15,15 @@ Log into Bulksign as a administrator and navigate to Settings \ Visual Customiza
 Here is how the customized signing experience looks like :
 <br/>
 <br/>
-![](websign.png)
+![](images\websign.png)
 
 
 Here is how the customized dashboard looks like :
 <br/>
 <br/>
-![](dashboard_1.png)
+![](images\dashboard_1.png)
 <br/>
 <br/>
-![](dashboard_2.png)
+![](images\dashboard_2.png)
 
 
