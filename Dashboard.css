@@ -1,23 +1,47 @@
+input[type="checkbox"] {
+    background-color: #EA4D04 !important;
+    color: white !important;
+}
+
+.asideDarkSection a {
+    color: #EA4D04 !important;
+}
+
 #filterSection .active a {
-    background-color:red !important;
-    color:white!important;
-    font-weight:bold;
-}						
+    background-color: #EA4D04 !important;
+    color: white !important;
+    font-weight: bold;
+}
 
 .settingsBarLeft .active a {
-    background-color:red !important;
-    color:white!important;
-    font-weight:bold;
-}						
-                        
-#buttonChooseOption {
-    background-color:white !important;
-}
-                                                                                            
-.mainColorMixin {
-    color:red !important;
+    background-color: #EA4D04 !important;
+    color: white !important;
+    font-weight: bold;
 }
 
+#buttonChooseOption {
+    background-color: white !important;
+}
+
+.mainColorMixin {
+    color: #EA4D04 !important;
+}
+
+
 #signatureContainer {
-    background-color:red !important;
-}			
+    background-color: #EA4D04 !important;
+}
+
+.mainButton {
+    background-color: #EA4D04 !important;
+    color: white !important;
+}
+
+.secondaryButton {
+    background-color: gray !important;
+    color: white !important;
+}
+
+.mvc-grid-pager .active {
+    background-color: #EA4D04 !important;
+}

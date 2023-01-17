@@ -1,28 +1,35 @@
 .pager {
-    background-color: #F00 !important
+    background-color: #EA4D04 !important
 }
 
 .pageImage {
-    border: 1px solid #F00 !important
+    border: 1px solid #EA4D04 !important
 }
 
 .navbar,
 .navbar-fixed-top {
-    background-color: #F00 !important
+    background-color: #EA4D04 !important
 }
 
 #buttonFinish,
 #buttonToggleFinish {
     background-color: white !important;
-    color: red !important
+    color: #EA4D04 !important
 }
 
 #buttonNext {
     background-color: white !important;
-    color: red !important
+    color: #EA4D04 !important
 }
 
 .mainButton {
-    background-color: red !important;
+    background-color:  #EA4D04 !important;
     color: white !important;
 }
+
+.signatureElement
+{
+    background-color:  yellow !important;
+    color: black !important;
+}						
+						

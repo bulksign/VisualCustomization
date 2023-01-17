@@ -1,5 +1,5 @@
 # Bulksign Visual Customization sample
-This sample repo demonstrates CSS customization for Bulksign platform using a fictitious Coca-Cola company.
+This sample repository demonstrates CSS customization for Bulksign platform using a fictitious "Generic Company" organization.
 
 
 ### How can I use this ?
@@ -9,6 +9,8 @@ Log into Bulksign as a administrator and navigate to Settings \ Visual Customiza
 - paste the content of the Dashboard.css file to the Dashboard CSS area.
 
 - paste the content of the WebSign.css file to the WebSign CSS area.
+
+- upload the organization logo from \images\orglogo.png
 
 - save the changes
 
