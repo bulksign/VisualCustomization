@@ -1,5 +1,6 @@
 # Bulksign Visual Customization sample
 This sample repository demonstrates CSS customization for Bulksign platform using a fictitious "Generic Company" organization.
+See also the documentation at https://bulksign.com/docs/AdminSettingsVisualCustomization.htm
 
 
 ### How can I use this ?
