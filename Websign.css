@@ -1,27 +1,33 @@
-.pager {
+.selectorDocumentPager
+{
     background-color: #EA4D04 !important
 }
 
-.pageImage {
+.selectorDocumentImage
+{
     border: 1px solid #EA4D04 !important
 }
 
-.selectorHeader {
+.selectorHeader
+{
     background-color: #EA4D04 !important
 }
 
 #buttonFinish,
-#buttonToggleFinish {
+#buttonToggleFinish
+{
     background-color: white !important;
     color: #EA4D04 !important
 }
 
-#buttonNext {
+#buttonNext
+{
     background-color: white !important;
     color: #EA4D04 !important
 }
 
-.mainButton {
+.mainButton
+{
     background-color:  #EA4D04 !important;
     color: white !important;
 }
@@ -31,4 +37,9 @@
     background-color:  yellow !important;
     color: black !important;
 }						
+
+.modalSelector
+{
+    border-top: #EA4D04 5px solid !important;
+}
 						

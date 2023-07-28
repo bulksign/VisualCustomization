@@ -1,47 +1,54 @@
-input[type="checkbox"] {
+input[type="checkbox"]
+{
     background-color: #EA4D04 !important;
     color: white !important;
 }
 
-.asideDarkSection a {
+.asideDarkSection a
+{
     color: #EA4D04 !important;
 }
 
-#filterSection .active a {
+.list-group-item.active
+{
     background-color: #EA4D04 !important;
     color: white !important;
     font-weight: bold;
 }
 
-.settingsBarLeft .active a {
-    background-color: #EA4D04 !important;
-    color: white !important;
-    font-weight: bold;
-}
-
-#buttonChooseOption {
+#buttonChooseOption
+{
     background-color: white !important;
 }
 
-.mainColorMixin {
+.mainColorMixin
+{
     color: #EA4D04 !important;
 }
 
-
-#signatureContainer {
+.selectorHomeHero
+{
     background-color: #EA4D04 !important;
 }
 
-.mainButton {
+.mainButton
+{
     background-color: #EA4D04 !important;
     color: white !important;
 }
 
-.secondaryButton {
+.secondaryButton
+{
     background-color: gray !important;
     color: white !important;
 }
 
-.mvc-grid-pager .active {
+.mvc-grid-pager .active
+{
     background-color: #EA4D04 !important;
+}
+
+.modalSelector
+{
+    border-top: #EA4D04 5px solid !important;
 }
