@@ -1,9 +1,3 @@
-input[type="checkbox"]
-{
-    background-color: #EA4D04 !important;
-    color: white !important;
-}
-
 .asideDarkSection a
 {
     color: #EA4D04 !important;
@@ -48,7 +42,7 @@ input[type="checkbox"]
     background-color: #EA4D04 !important;
 }
 
-.modalSelector
+.selectorModal
 {
     border-top: #EA4D04 5px solid !important;
 }
