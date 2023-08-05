@@ -38,23 +38,22 @@ Log into Bulksign as a administrator and navigate to Settings \ Visual Customiza
 
 ###RedCherry
 
-<img src="themes\redcherry\websign.png">
-<img src="themes\redcherry\dashboard.png">
+<img src="\themes\redcherry\websign.png">
+<img src="\themes\redcherry\dashboard.png">
 
 
 ###Indigo
 
-![](sample/indigo/websign.png)
-![](sample/indigo/dashboard.png)
+<img src="\themes\Indigo\websign.png">
+<img src="\themes\Indigo\dashboard.png">
 
 
 ###LemonadeStand
 
-![](sample/LemonadeStand/websign.png)
-![](sample/LemonadeStand/dashboard.png)
-
+<img src="\themes\LemonadeStand\websign.png">
+<img src="\themes\LemonadeStand\dashboard.png">
 
 ###GenericCompany
 
-![](sample/GenericCompany/websign.png)
-![](sample/GenericCompany/dashboard.png)
+<img src="\themes\GenericCompany\websign.png">
+<img src="\themes\GenericCompany\dashboard.png">
