@@ -1,0 +1,80 @@
+.mainButton
+{
+    background-color:  #2c3a9b !important;
+    color: white !important;
+}
+
+.secondaryButton
+{
+    background-color: #2c3a9b !important;
+    color: white !important;
+}
+
+.mainColorMixin
+{
+    color: #2c3a9b !important;
+}
+
+.secondaryColorMixin
+{
+    color: #2c3a9b !important;
+}
+
+.selectorDocumentPager
+{
+    background-color: #2c3a9b !important
+}
+
+.selectorDocumentImage
+{
+    border: 1px solid #2c3a9b !important
+}
+
+
+.signatureElement
+{
+    background-color:  #2c3a9b !important;
+    color: white !important;
+}						
+
+.signatureElement > span
+{
+    color: white !important;
+}						
+
+
+.selectorModal
+{
+    border-top: #2c3a9b 5px solid !important;
+}
+						
+
+
+
+
+
+
+
+
+
+
+.selectorHeader {
+    background-color: white !important;
+    max-height: 1px !important;
+}
+
+#groupFinish {
+    position: fixed !important;
+    bottom: 120px !important;
+    right: 10px !important;
+    font-size:22px !important;
+}
+
+#buttonFinish, #buttonToggleFinish {
+   font-size:18px !important;
+   background-color: #2c3a9b !important;
+}
+
+#buttonNext {
+    display: none !important;
+}

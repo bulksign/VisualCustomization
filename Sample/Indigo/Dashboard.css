@@ -1,0 +1,55 @@
+.mainButton
+{
+    background-color: #2c3a9b !important;
+    color: white !important;
+}
+
+.secondaryButton
+{
+    background-color: #2c3a9b !important;
+    color: white !important;
+}
+
+.mainColorMixin
+{
+    color: #2c3a9b !important;
+}
+
+.secondaryColorMixin
+{
+    color: #2c3a9b !important;
+}
+
+.asideDarkSection a
+{
+    color: #2c3a9b !important;
+}
+
+.list-group-item.active
+{
+    background-color: #2c3a9b !important;
+    color: white !important;
+    font-weight: bold;
+}
+
+#buttonChooseOption
+{
+    background-color: white !important;
+}
+
+
+.selectorHomeHero
+{
+    background-color: #2c3a9b !important;
+}
+
+
+.mvc-grid-pager .active
+{
+    background-color: #2c3a9b !important;
+}
+
+.selectorModal
+{
+    border-top: #2c3a9b 5px solid !important;
+}

@@ -1,9 +1,25 @@
-# Bulksign Visual Customization sample
-This sample repository demonstrates CSS customization for Bulksign platform using a fictitious "Generic Company" organization.
-See also the documentation at https://bulksign.com/docs/AdminSettingsVisualCustomization.htm
+## Visual Customization samples
+This sample repository demonstrates CSS customization for Bulksign platform.
+See also the official documentation at https://bulksign.com/docs/AdminSettingsVisualCustomization.htm
 
 
-### How can I use this ?
+
+
+
+### How can I easily create my own customization ?
+
+- make a copy the 2 CSS files under \Template 
+
+- open the files in a text editor
+
+- replace  #MainColor#  with your main color.
+
+- replace #SecondaryColor# with your secondary color. 
+
+- save the files and apply the customizations the way is described in next section.
+
+
+### How can I apply CSS customizations ?
 
 Log into Bulksign as a administrator and navigate to Settings \ Visual Customization.
 
@@ -11,22 +27,35 @@ Log into Bulksign as a administrator and navigate to Settings \ Visual Customiza
 
 - paste the content of the WebSign.css file to the WebSign CSS area.
 
-- upload the organization logo from \images\orglogo.png
+- upload the organization logo file (logo.png)
 
-- save the changes
-
-Here is how the customized signing experience looks like :
-<br/>
-<br/>
-![](images/websign.png)
+- save the changes by clicking the "Update" button
 
 
-Here is how the customized dashboard looks like :
-<br/>
-<br/>
-![](images/dashboard_1.png)
-<br/>
-<br/>
-![](images/dashboard_2.png)
+
+### How do these customizations look like  ?
 
 
+###RedCherry
+
+![](sample/redcherry/websign.png)
+![](sample/redcherry/dashboard.png)
+
+
+
+###Indigo
+
+![](sample/indigo/websign.png)
+![](sample/indigo/dashboard.png)
+
+
+###LemonadeStand
+
+![](sample/LemonadeStand/websign.png)
+![](sample/LemonadeStand/dashboard.png)
+
+
+###GenericCompany
+
+![](sample/GenericCompany/websign.png)
+![](sample/GenericCompany/dashboard.png)

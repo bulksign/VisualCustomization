@@ -1,0 +1,68 @@
+.mainButton
+{
+    background-color:  #FF0000 !important;
+    color: white !important;
+}
+
+.secondaryButton
+{
+    background-color: #FF0000 !important;
+    color: white !important;
+}
+
+.mainColorMixin
+{
+    color: #FF0000 !important;
+}
+
+.secondaryColorMixin
+{
+    color: #FF0000 !important;
+}
+
+.selectorDocumentPager
+{
+    background-color: #FF0000 !important
+}
+
+.selectorDocumentImage
+{
+    border: 1px solid #FF0000 !important
+}
+
+.selectorHeader
+{
+    background-color: #FF0000 !important
+}
+
+#buttonFinish,
+#buttonToggleFinish
+{
+    background-color: white !important;
+    color: #FF0000 !important
+}
+
+
+#buttonNext
+{
+    background-color: white !important;
+    color: #EA4D04 !important
+}
+
+
+.signatureElement
+{
+    background-color:  #FF0000 !important;
+    color: white !important;
+}						
+
+.signatureElement > span
+{
+    color: white !important;
+}		
+
+.selectorModal
+{
+    border-top: #FF0000 5px solid !important;
+}
+					
