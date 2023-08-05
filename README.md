@@ -36,24 +36,24 @@ Log into Bulksign as a administrator and navigate to Settings \ Visual Customiza
 ### How do these customizations look like  ?
 
 
-###RedCherry
+### RedCherry
 
-<img src="\themes\redcherry\websign.png">
-<img src="\themes\redcherry\dashboard.png">
-
-
-###Indigo
-
-<img src="\themes\Indigo\websign.png">
-<img src="\themes\Indigo\dashboard.png">
+<img src="Themes\redcherry\websign.png">
+<img src="Themes\redcherry\dashboard.png">
 
 
-###LemonadeStand
+### Indigo
 
-<img src="\themes\LemonadeStand\websign.png">
-<img src="\themes\LemonadeStand\dashboard.png">
+<img src="Themes\Indigo\websign.png">
+<img src="Themes\Indigo\dashboard.png">
 
-###GenericCompany
+
+### LemonadeStand
+
+<img src="\Themes\LemonadeStand\websign.png">
+<img src="\Themes\LemonadeStand\dashboard.png">
+
+### GenericCompany
 
 <img src="\themes\GenericCompany\websign.png">
 <img src="\themes\GenericCompany\dashboard.png">
