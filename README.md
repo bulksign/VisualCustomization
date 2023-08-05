@@ -38,9 +38,8 @@ Log into Bulksign as a administrator and navigate to Settings \ Visual Customiza
 
 ###RedCherry
 
-![](sample/redcherry/websign.png)
-![](sample/redcherry/dashboard.png)
-
+<img src="themes\redcherry\websign.png">
+<img src="themes\redcherry\dashboard.png">
 
 
 ###Indigo
