@@ -53,6 +53,13 @@ Log into Bulksign as a administrator and navigate to Settings \ Visual Customiza
 <img src="Themes\LemonadeStand\websign.png">
 <img src="Themes\LemonadeStand\dashboard.png">
 
+
+### DailyFresh
+
+<img src="Themes\DailyFresh\websign.png">
+<img src="Themes\DailyFresh\dashboard.png">
+
+
 ### GenericCompany
 
 <img src="Themes\GenericCompany\websign.png">
